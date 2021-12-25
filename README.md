@@ -1,17 +1,25 @@
 # PAR-OU-IMPAR-
 Esse script verifica se o numero digitado é IMPAR ou PAR 
 
-## Instalando Dependências:
+## INSTALANDO DEPENDENCIAS
 
-```Instalando o pyfiglet```
 ```
-apt-get install pyfiglet
+pip install -r requerimentos.txt
+```
+## COMO EXECUTAR
+
+```LINUX```
+
+```
+python3 Par_ou_impar.py
 ```
 
-```Instalando o rich```
+```WINDOWS```
+
 ```
-apt-get install rich
+./Par_ou_impar.py
 ```
+
 
 ### Documentações
 
