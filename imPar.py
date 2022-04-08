@@ -6,10 +6,12 @@ import os
 limpar = 'cls' if os.name == 'nt' else 'clear'
 os.system(limpar)
 
-banner = pg.figlet_format('ImPar')
-print(banner)
+def Banner():
+    banner = pg.figlet_format('ImPar')
+    print(banner)
 
 def ImPar():
+    Banner()
     qq = sys.platform
     print(f'Sistema Operacional: [cyan]{qq}[/]')
 
