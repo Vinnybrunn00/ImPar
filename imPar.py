@@ -12,8 +12,8 @@ def Banner():
 
 def ImPar():
     Banner()
-    qq = sys.platform
-    print(f'Sistema Operacional: [cyan]{qq}[/]')
+    system = sys.platform
+    print(f'Sistema Operacional: [cyan]{system}[/]')
 
     while True:
         try:
