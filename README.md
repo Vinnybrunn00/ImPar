@@ -1,12 +1,12 @@
 # PAR-OU-IMPAR-
-Esse script verifica se o numero digitado é IMPAR ou PAR 
+This script checks if the number entered is ODD or PAR
 
-## INSTALANDO DEPENDENCIAS
+## INSTALLING DEPENDENCIES
 
 ```
 pip install -r requerimentos.txt
 ```
-## COMO EXECUTAR
+## HOW TO RUN
 
 ```LINUX```
 
@@ -21,7 +21,7 @@ python3 Par_ou_impar.py
 ```
 
 
-### Documentações
+### Documentation
 
 pyfiglet: https://pyglet.readthedocs.io/en/latest/
 
